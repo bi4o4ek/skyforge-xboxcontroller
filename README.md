@@ -1,4 +1,4 @@
-# skyforge-xboxcontroller
+# Skyforge xbox controller support
 How to play Skyforge with xbox controller.
 This guide is written in Russian. For English please use some translator. For example, <a href="https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=ru&ie=UTF8&prev=_t&rurl=translate.google.com&sl=ru&tl=en&u=https://github.com/bi4o4ek/skyforge-xboxcontroller&usg=ALkJrhgL35h1awawpn17B5fl4BQ0AeD97A" target="_blank">translate this readme with google</a>
 
